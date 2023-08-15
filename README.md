@@ -1,4 +1,3 @@
-# README
 # PAC2: PowerAutomateC2
 
 ![logo](img/logo.png)
@@ -42,10 +41,12 @@ The main flow between the attacker and PowerAutomate is the following.
     - Attackers can generate PowerAutomate flow by using CUI instead of troublesome low-code GUI
 - PAC2 control panel
     - PAC2 control panel provides an easy access to exfiltrated data such as Teams messages and SharePoint files
-    <img src="img/pac2_protal.png" width="640px">
+    ![pac2 portal](img/pac2_portal.png)
 - **Supports bitwise operations in PowerAutomate such as XOR**
     - The operations enables the encryption of payloads and outputs
 
 ## Demo
 
-<div><video controls src="img/PowerAutomateC2_Demo" muted="true"></video></div>
+https://github.com/t-tani/pac2-dev/assets/31282248/2380236a-178b-4eca-a7df-fe6f86e14201
+
+
